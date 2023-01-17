@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@600&display=swap');
+body {
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+    background-color: #aed0d8;
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/71/196/981/digital-art-minimalism-nature-hills-wallpaper-preview.jpg");
+}
+  
+  h1 {
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 200px;
+    color: rgb(222, 236, 233);
+  }
+  #search-container {
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 5px;
+  }
+  
+  #city-input {
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  #search-button {
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  #weather-container {
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 50px;
+    color: rgb(222, 236, 233);
+  }
+  .weather-info {
+    color: rgb(222, 236, 233);
+}
+.made{
+    position: relative;
+    text-align: center;
+    color: rgb(222, 236, 233);
+}
+
+  
